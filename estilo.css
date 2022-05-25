@@ -1,6 +1,7 @@
 body {
 	font-size: "trebuchet ms", helvetica, sans-serif;
-	background: #643d87 url(imagens/fundo.jpg) no-repeat top center;
+	background-image: url(imagens/fundo.jpg);
+	background-size: 100%;
 }
 
 
